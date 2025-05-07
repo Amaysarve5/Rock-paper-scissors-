@@ -16,4 +16,4 @@ The **Stone Paper Scissors** game is a simple interactive game where users compe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Stone-aper-scissors.git
+   git clone https://github.com/your-username/Stone-paper-scissors.git
