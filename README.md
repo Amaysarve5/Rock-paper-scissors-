@@ -1,4 +1,4 @@
-# Stone Paper Scissors Game
+# Rock Paper Scissors Game
 
 ## Overview
 The **Stone Paper Scissors** game is a simple interactive game where users compete against the computer in a classic "Rock, Paper, Scissors" battle. The game determines the winner based on traditional rules:
@@ -16,4 +16,4 @@ The **Stone Paper Scissors** game is a simple interactive game where users compe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Stone-paper-scissors-.git
+   git clone https://github.com/your-username/Rock-paper-scissors-.git
